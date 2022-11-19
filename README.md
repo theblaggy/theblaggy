@@ -1,4 +1,7 @@
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png" />
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</picture>
 
 # 💫 About Me:
 🔭 I’m currently working on the iOS darts app **YourDarts**
@@ -24,14 +27,24 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theblaggy&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=theblaggy&theme=ayu-mirage&hide_border=true)<br/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theblaggy&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=theblaggy&theme=default&hide_border=true&include_all_commits=false&count_private=true" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=theblaggy&theme=ayu-mirage&hide_border=true" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaggy&theme=default&hide_border=true" />
+</picture>
 
 <br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</picture>
 
+<br>
 <br>
 
 ---
