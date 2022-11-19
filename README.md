@@ -29,11 +29,11 @@
 # 📊 GitHub Stats:
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theblaggy&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true" />
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=theblaggy&theme=default&hide_border=true&include_all_commits=false&count_private=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=theblaggy&theme=default&hide_border=true&include_all_commits=false&count_private=true" />
 </picture>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=theblaggy&theme=ayu-mirage&hide_border=true" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaggy&theme=default&hide_border=true" />
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=theblaggy&theme=default&hide_border=true" />
 </picture>
 
 <br>
