@@ -40,16 +40,6 @@
 <br>
 <br>
 
-### ✍️ Random Dev Quote
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</picture>
-</p>
-
-<br>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=theblaggy&icon=0&color=12)](https://visitcount.itsvg.in)
 
