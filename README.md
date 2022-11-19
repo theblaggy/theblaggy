@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm the.blaggy</h1>
-<h3 align="center">A passionate iOS developer from Germany</h3>
-<br><img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on the iOS darts app **YourDarts**
