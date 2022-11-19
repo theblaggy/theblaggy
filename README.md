@@ -37,6 +37,8 @@
 </picture>
 
 <br>
+<br>
+<br>
 
 ### ✍️ Random Dev Quote
 <p align="center">
