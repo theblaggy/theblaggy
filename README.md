@@ -1,6 +1,6 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png" />
-    <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+    <img align="right" alt="Coding" src="programmer-400.gif" />
 </picture>
 
 # 💫 About Me:
